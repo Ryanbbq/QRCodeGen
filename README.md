@@ -1,6 +1,6 @@
-Unique QR Code Generator
-CST 205 Project 2
-Generates two different versions of QR Codes
+# Unique QR Code Generator
+
+## Generates two different versions of QR Codes
 Authors- Ryan,Jason,Elias
 October 14 2016
 
