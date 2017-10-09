@@ -1,7 +1,10 @@
 # Unique QR Code Generator
 
 ## Generates two different versions of QR Codes
-Authors- Ryan,Jason,Elias
+## Authors
+Ryan LeBon
+Jason
+Elias
 October 14 2016
 
 This program takes in a picture and changes it into a QR code depending on the option that the
